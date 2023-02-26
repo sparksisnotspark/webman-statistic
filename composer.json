@@ -15,7 +15,7 @@
 		}
 	],
 	"require": {
-		"workerman/http-client": "^1.0",
+		"workerman/http-client": "^2.*",
 		"phpmyadmin/sql-parser": "^5.5"
 	},
 	"autoload": {
